@@ -1,3 +1,4 @@
 insert this line in repo
 this file will change in both the repo and the fork
 this line changed in fork. (will insert a new line one in repo)
+edit last line in fork. trying to cause a conflict now!
